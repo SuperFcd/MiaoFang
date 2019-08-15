@@ -1,0 +1,102 @@
+.company-bg{
+	width: 100%;
+	height: 6.7rem;
+}
+.company-bg img{
+	width: 100%;
+	height: auto;
+}
+.company-content{
+	width: 100%;
+	height: 18rem;
+}
+.company-content-title{
+	width: 100%;
+	height: 2.5rem;
+}
+.company-content-title img{
+	width: auto;
+	height: 1.2rem;
+}
+.company2{
+	width: 80%;
+	height: 13rem;
+	margin: 0 auto;
+}
+.company2-p{
+	font-family: "微软雅黑";
+	font-size: .42rem;
+	text-indent: 0.84rem;
+	line-height: 0.63rem;
+}
+.company-four{
+	width: 100%;
+	height: 2rem;
+	background: red;
+}
+.company-four-child{
+	width: 90%;
+	height: 2rem;
+	margin: 0 auto;
+	background: white;
+}
+.company-3{
+	width: 100%;
+	height: 2rem;
+}
+.company-3-child{
+	width: 90%;
+	height: 2rem;
+	margin: 0 auto;
+}
+.company-3-child img{
+	width: 2rem;
+	height: 2rem;
+}
+/*荣誉资质*/
+.honor{
+	width: 100%;
+	height: auto;
+}
+.honor img{
+	width: 100%;
+	height: auto;
+}
+.honor-center{
+	width: 100%;
+	height: 5rem;
+}
+.honor-title{
+	width: 100%;
+	height: 2rem;
+	font-family: "微软雅黑";
+	font-size: 0.6rem;
+	font-weight: 600;
+	color:#000;
+}
+.honor-content{
+	width: 90%;
+	height: 3rem;
+	margin:0 auto ;
+}
+.honor-content-p{
+	font-family: "微软雅黑";
+	font-size: .42rem;
+	text-indent: 0.84rem;
+	line-height: 0.63rem;
+}
+.certificate{
+	width: 100%;
+	height: auto;
+}
+.certificate-child{
+	width: 90%;
+	height: auto;
+	margin: 0 auto;
+}
+.certificate img{
+	width: 100%;
+	height: auto;
+	padding-top: .5rem;
+	padding-bottom: .5rem;
+}

@@ -1,0 +1,37 @@
+/* 弹性盒子 flex */
+/*
+/* 左右居中，上下亦居中 */
+.flex{display: flex;flex-direction: row;justify-content: center;align-items: center;flex-wrap: wrap;}
+/*
+水平方向
+flex-direction: row 横向，默认的
+justify-content 水平方向
+align-items 垂直方向
+*/
+/* 左右居左，上下亦居中 */
+.flex-fs{display: flex;flex-direction: row;justify-content: flex-start;align-items: center;flex-wrap: wrap;}
+/* 左右居右，上下亦居中 */
+.flex-fe{display: flex;flex-direction: row;justify-content: flex-end;align-items: center;flex-wrap: wrap;}
+/* 左右相距两边间距相等，上下亦居中 */
+.flex-sa{display: flex;flex-direction: row;justify-content: space-around;align-items: center;flex-wrap: wrap;}
+/* 左右居两边、上下亦居中 */
+.flex-sb{display: flex;flex-direction: row;justify-content: space-between;align-items: center;flex-wrap: wrap;}
+
+/*
+垂直方向
+flex-direction: column
+justify-content 垂直方向
+align-items 水平方向
+*/
+/* 左右居中，上下居上 */
+.flex-c-fs{display: flex;flex-direction:column;justify-content:flex-start;align-items: center;flex-wrap: wrap;}
+/* 左右居中，上下居下 */
+.flex-c-fe{display: flex;flex-direction:column;justify-content:flex-end;align-items: center;flex-wrap: wrap;}
+/* 左右居中，上下相距两边间距相等 */
+.flex-c-sa{display: flex;flex-direction:column;justify-content:space-around;align-items: center;flex-wrap: wrap;}
+/* 左右居中，上下居两边 */
+.flex-c-sb{display: flex;flex-direction:column;justify-content:space-between;align-items: center;flex-wrap: wrap;}
+/*布局边框*/
+.box{
+    border: 1px solid #EE5368;
+}

@@ -1,0 +1,43 @@
+
+.healthy1-bg{
+	width: 90%;
+	height: auto;
+	margin: 0 auto;
+	margin-top: 0.8rem;
+	margin-bottom: 1rem;
+}
+.healthy1-p1{
+	font-family: "微软雅黑";
+	font-size: 0.5rem;
+	font-weight: 600;
+	padding-bottom: 0.2rem;
+}
+.healthy1-p2{
+	font-family: "微软雅黑";
+	font-size: 0.36rem;
+	font-weight: 500;
+	color: #ccc;
+	padding-bottom: 0.2rem;
+}
+.healthy1-p-content{
+	font-family: "微软雅黑";
+	font-size: 0.36rem;
+	text-indent: 0.72rem;
+	padding-bottom: 0.2rem;
+	letter-spacing: 0.01rem;
+	line-height: 0.6rem;
+}
+.healthy1-bg img{
+	width: 100%;
+	height: auto;
+	margin-bottom: 0.5rem;
+}
+.healthy1-p-title{
+	font-family: "微软雅黑";
+	font-size: 0.36rem;
+	font-weight: 600;
+	text-indent: 0.72rem;
+	padding-bottom: 0.2rem;
+	letter-spacing: 0.01rem;
+	line-height: 0.6rem;
+}

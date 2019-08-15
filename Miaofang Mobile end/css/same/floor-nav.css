@@ -1,0 +1,81 @@
+/*院长团队*/
+.dean{
+	width: 100%;
+	height: 5.3rem;
+	background-image: url(../../images/tean-bg.png);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+}
+.dean-team{
+	width: 100%;
+	height: 2rem;
+	font-size: 0.54rem;
+	color: white;
+	font-weight: 600;
+}
+.dean-team-title{
+	width: 100%;
+	height: 1.2rem;
+	font-size: 0.62rem;
+	color: white;
+	font-weight: 600;
+}
+.dean-team-english{
+	width: 100%;
+	height: 0.8rem;
+	font-size: 0.32rem;
+	color: white;
+	font-weight: 600;
+}
+.dean-img{
+	width: 100%;
+	height: 3.3rem;
+}
+.dean-img-child{
+	width: 90%;
+	height: 3rem;
+}
+
+/*抖音*/
+.jitter{
+	width: 100%;
+	height: auto;
+}
+.jitter img{
+	width: 100%;
+	height: auto;
+}
+
+/*地板*/
+.floor{
+	width: 100%;
+	height: 1.5rem;
+}
+.floor-nav{
+	width: 100%;
+	height: 1.5rem;
+	position:fixed;
+	z-index: 100;
+	bottom: 0;
+	background: white;
+	box-shadow: 0 0 0.2rem #ccc;
+}
+.floor-nav-child{
+	display: inline-block;
+	width: 25%;
+	height: 1.5rem;
+}
+.floor-nav-child-t{
+	width: 100%;
+	height: 1rem;
+}
+.floor-nav-child-t img{
+	width: 0.65rem;
+	height: 0.65rem;
+}
+.floor-nav-child-b{
+	width: 100%;
+	height:0.5rem;
+	font-size: 0.32rem;
+	color: #000;
+}

@@ -1,0 +1,49 @@
+
+.store-show{
+	width:100%;
+	height: auto;
+	background: #EFEFEF;
+}
+.store-show-title{
+	width: 100%;
+	height: 2rem;
+	font-size: 0.64rem;
+}
+.store-show-child{
+	width: 90%;
+	height: auto;
+	background:white;
+	margin: 0 auto;
+	background: #EFEFEF;
+}
+.store-show-child-geometry{
+	width: 48%;
+	height:7rem;
+	background: white;
+	margin-bottom: 0.4rem;
+}
+.store-show-child-geometry-img{
+	width: 100%;
+	height:5rem;
+}
+.store-show-child-geometry-img img{
+	width: 80%;
+	height: 4rem;
+	border-radius: 0.2rem;
+}
+.store-show-child-geometry-title{
+	width: 100%;
+	height: 1rem;
+	font-family: "微软雅黑";
+	font-size: 0.36rem;
+	font-weight: 600;
+}
+.store-show-child-geometry-bg{
+	width: 50%;
+	height: 0.3rem;
+	margin: 0 auto;
+	background: #92D605;
+	border-bottom-right-radius: 0.15rem;
+	border-top-left-radius: 0.15rem;
+	
+}

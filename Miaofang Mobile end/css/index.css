@@ -1,0 +1,293 @@
+
+/*首页CS*/
+/*轮播*/
+.wheel{
+	width: 100%;
+	height: auto;
+}
+/*four menu nav*/
+.four-menu{
+	width: 100%;
+	height: 3rem;
+}
+.four-menu-center{
+	width: 90%;
+	height: 2rem;
+}
+.four-menu-child{
+	display: inline-block;
+	width: 25%;
+	height:2rem;
+}
+.four-menu-child-t{
+	width: 100%;
+	height: 1.4rem;
+}
+.four-menu-child-t img{
+	width: 1.2rem;
+	height: 1.2rem;
+}
+.four-menu-child-b{
+	width: 100%;
+	height: 0.6rem;
+	font-size: 0.36rem;
+	color: #000000;
+}
+.zhengdianshuchu,
+.tuoke,
+.shidajiameng,
+.network{
+	width: 100%;
+	height: auto;
+}
+.Keep-on-record{
+	width: 100%;
+	height: 1.5rem;
+	background: #F4F4F4;
+	font-size: 0.36rem;
+	color: #666;
+}
+.success-case{
+	width: 100%;
+	height: auto;
+}
+.success-case-child{
+	width: 90%;
+	height: auto;
+}
+.seccess-case-child-top{
+	width: 100%;
+	height: 1.4rem;
+}
+.seccess-case-child-top-div{
+	width: 2.7rem;
+	height: 0.9rem;
+	font-family: "微软雅黑";
+	font-size: 0.6rem;
+	font-weight: 600;
+	color: #666;
+}
+.seccess-case-child-top-div:nth-child(2){
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-items: flex-end;
+	flex-wrap: wrap;
+}
+.seccess-case-child-top-div a{
+	padding: 0.1rem 0.2rem 0.1rem 0.2rem;
+	font-family: "微软雅黑";
+	font-size: 0.32rem;
+	color: #7DB808;
+}
+.success-case-img{
+	width: 100%;
+	height:auto;
+	padding-bottom: 0.4rem;
+}
+/*门店展示*/
+.store-show{
+	width: 100%;
+	height: auto;
+}
+.store-show-child{
+	width: 90%;
+	height: auto;
+}
+.store-show-child-top{
+	width: 100%;
+	height: 1.4rem;
+}
+.store-show-child-top-div{
+	width: 2.7rem;
+	height: 0.9rem;
+	font-family: "微软雅黑";
+	font-size: 0.6rem;
+	font-weight: 600;
+	color: #666;
+}
+.store-show-child-top-div:nth-child(2){
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-items: flex-end;
+	flex-wrap: wrap;
+}
+.store-show-child-top-div a{
+	padding: 0.1rem 0.2rem 0.1rem 0.2rem;
+	font-family: "微软雅黑";
+	font-size: 0.32rem;
+	color: #7DB808;
+}
+.store-show-img{
+	width: 100%;
+	height:auto;
+	padding-bottom: 0.4rem;
+}
+/*品牌动态*/
+.mark-dyn{
+	width: 100%;
+	height: auto;
+}
+.mark-dyn-child{
+	width: 90%;
+	height: auto;
+}
+.mark-dyn-child-top{
+	width: 100%;
+	height: 1.4rem;
+}
+.mark-dyn-child-top-div{
+	width: 2.7rem;
+	height: 0.9rem;
+	font-family: "微软雅黑";
+	font-size: 0.6rem;
+	font-weight: 600;
+	color: #666;
+}
+.mark-dyn-child-top-div:nth-child(2){
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-items: flex-end;
+	flex-wrap: wrap;
+}
+.mark-dyn-child-top-div a{
+	padding: 0.1rem 0.2rem 0.1rem 0.2rem;
+	font-family: "微软雅黑";
+	font-size: 0.32rem;
+	color: #7DB808;
+}
+.mark-dyn-img{
+	width: 100%;
+	height:auto;
+	padding-bottom: 0.4rem;
+}
+/*加入我们*/
+.join-me{
+	width: 100%;
+	height: 5rem;
+}
+.join-me-child{
+	width: 90%;
+	height: 5rem;
+}
+.join-me-child-top{
+	width: 100%;
+	height: 1.4rem;
+}
+.join-me-child-top-div{
+	width: 2.7rem;
+	height: 0.9rem;
+	font-family: "微软雅黑";
+	font-size: 0.6rem;
+	font-weight: 600;
+	color: #666;
+}
+.join-me-child-top-div:nth-child(2){
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-items: flex-end;
+	flex-wrap: wrap;
+}
+.join-me-child-top-div a{
+	padding: 0.1rem 0.2rem 0.1rem 0.2rem;
+	font-family: "微软雅黑";
+	font-size: 0.32rem;
+	color: #7DB808;
+}
+.join-me-child-botton{
+	width: 100%;
+	height:3rem;
+}
+.join-me-child-botton-l{
+	width: 70%;
+	height:3rem;
+}
+.join-me-child-botton-l img{
+	width: 100%;
+	height:3rem;
+}
+.join-me-child-botton-r{
+	width: 30%;
+	height:3rem;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items: flex-end;
+	flex-wrap: wrap;
+}
+.qiancheng{
+	width: 90%;
+	height: 1.2rem;
+	background: #EA571B;
+	border-bottom-right-radius: 0.4rem;
+}
+.qiancheng img{
+	width: 0.6rem;
+	height: 0.6rem;
+}
+.qiancheng-span{
+	font-family: "微软雅黑";
+	font-size: .44rem;
+	color: white;
+}
+.liepin{
+	width: 90%;
+	height: 1.2rem;
+	background: #ABCD03;
+	border-bottom-right-radius: 0.4rem;
+}
+.liepin img{
+	width: 0.6rem;
+	height: 0.6rem;
+}
+.liepin{
+	font-family: "微软雅黑";
+	font-size: .44rem;
+	color: white;
+}
+/*院长团队*/
+.dean-team{
+	width: 100%;
+	height: 6rem;
+}
+.dean-team-child{
+	width: 90%;
+	height: 6rem;
+	margin: 0 auto;
+	padding-top: 0.2rem;
+	padding-bottom: 0.2rem;
+}
+/*返回顶部*/
+.right-fixed{
+	position: fixed;
+	z-index:99;
+	right: 0.5rem;
+	bottom: 2rem;
+	width: 1.2rem;
+	height: 2.8rem;
+	opacity: 0.7;
+}
+.right-fixed-service{
+	width: 1.2rem;
+	height: 1.2rem;
+}
+.right-fixed-service-img{
+	width: 1.2rem;
+	height: 1.2rem;
+	border-radius: 50%;
+	overflow: hidden;
+}
+.right-fixed-return{
+	width: 1.2rem;
+	height: 1.2rem;
+}
+.right-fixed-return-img{
+	display: none;
+	width: 1.2rem;
+	height: 1.2rem;
+	border-radius: 50%;
+	overflow: hidden;
+}

@@ -1,0 +1,42 @@
+
+.cultrue{
+	width: 100%;
+	height: 2rem;
+	background: #F7F7F7;
+	font-size: 0.64rem;
+}
+.cultrue-video{
+	width: 100%;
+	height: auto;
+	background: #F7F7F7;
+}
+.cultrue-video-child{
+	width: 90%;
+	height: auto;
+	margin: 0 auto;
+}
+.cultrue-video-child-box{
+	width: 48%;
+	height: auto;
+	margin-bottom: 0.34rem;
+	position: relative;
+}
+.cultrue-video-child-box a{
+	width: 100%;
+	height: auto;
+	
+}
+.cultrue-video-child-box a img{
+	width: 100%;
+	height: auto;
+}
+.video-marquee{
+	width: 100%;
+    height: 0.9rem;
+    font-size: 0.32rem;
+    position: absolute;
+    bottom: 0rem;
+    color: white;
+    z-index: 2;
+   
+}

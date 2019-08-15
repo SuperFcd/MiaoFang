@@ -1,0 +1,67 @@
+
+.contact-me{
+	width: 100%;
+	height: 2rem;
+	background: #18B32A;
+}
+.contact-me-top{
+	font-family: "微软雅黑";
+	font-size: 0.8rem;
+	color: white;
+}
+.contact-map{
+	width: 100%;
+	height: 14rem;
+	/*background: #FF4040;*/
+	padding-top: 0.5rem;
+}
+.contact-map-child{
+	width: 90%;
+	height: 10rem;
+	background: white;
+	margin: 0 auto;
+}
+.contact-map-child-title{
+	width: 100%;
+	height: 1rem;
+	background:#0D942E;
+	color: white;
+	font-family: "微软雅黑";
+	font-size: 0.48rem;
+	line-height: 0.96rem;
+	text-indent:0.42rem;
+}
+.contact-map-child-content{
+	width: 100%;
+	height: 3rem;
+	background:#F4F4F4;
+	margin-bottom: 0.5rem;
+}
+.contact-map-child-content-center{
+	width: 90%;
+	height: auto;
+}
+.contact-map-child-content p{
+	width: 100%;
+	height: auto;
+	margin: 0 auto;
+	background:#F4F4F4;
+	font-family: "微软雅黑";
+	font-size: 0.32rem;
+	vertical-align: middle;
+	line-height: 0.5rem;
+}
+.contact-map-child-content p img{
+	width: 0.38rem;
+	height: 0.38rem;
+	vertical-align: middle;
+}
+.contact-map-child-consult{
+	width: 100%;
+	height: 1rem;
+	background:#92D605;
+	color: white;
+	font-family: "微软雅黑";
+	font-size: 0.48rem;
+	border-bottom-right-radius: 0.4rem;
+}
